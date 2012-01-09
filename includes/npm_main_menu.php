@@ -32,7 +32,7 @@ function npm_main_menu(){
 	/* Show list */
 	
 	echo '<div class="wrap">';
-	echo '<div class="icon32"><img src="' . WP_PLUGIN_URL . '/npm/includes/npm32.png" alt=""><br /></div>';
+	echo '<div class="icon32"><img src="' . WP_PLUGIN_URL . '/nano-plugin-manager/includes/npm32.png" alt=""><br /></div>';
 	echo '<h2>&nbsp;&nbsp;&nbsp;' . __( 'Nano Plugins', 'npm' ) . '</h2>';
 	
 	echo '<br />';
@@ -65,7 +65,7 @@ function npm_main_menu(){
 		if(in_array($file_name, $activated))
 			echo '<span><a href="' . $url . '?page=nano-plugins&npm_deactivate=' . $file_name . '">' . __( 'Deactivate', 'npm' ) . '</a> | </span>';
 		echo '<span><a href="' . $url . '?page=nano-plugin-editor&npm_edit=' . $file_name . '">' . __( 'Edit', 'npm' ) . '</a> | </span>';
-		echo '<span><a href="' . WP_PLUGIN_URL . '/npm/nano-plugins/' . $file_name . '">' . __( 'Export', 'npm' ) . '</a> | </span>';
+		echo '<span><a href="' . WP_PLUGIN_URL . '/nano-plugin-manager/nano-plugins/' . $file_name . '">' . __( 'Export', 'npm' ) . '</a> | </span>';
 		echo '<span class="delete"><a href="' . $url . '?page=nano-plugins&npm_delete=' . $file_name . '" onclick="return confirm(\'' . __( 'Delete', 'npm' ) . '?\' );">' . __( 'Delete', 'npm' ) . '</a></span>';
 		echo '</div>';
 		
