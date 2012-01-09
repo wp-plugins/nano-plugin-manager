@@ -1,0 +1,1 @@
+<data><name>Sort Posts by Title</name><description>Filter sample. Sorts all your posts by title.</description><type>filter</type><tag>posts_orderby</tag><arguments></arguments><content>return 'post_title';</content><priority></priority></data>

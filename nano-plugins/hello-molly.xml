@@ -1,0 +1,1 @@
+<data><name>Hello Molly</name><description>Action sample. Displays a text in the upper left of your admin screen.</description><type>action</type><tag>admin_notices</tag><arguments></arguments><content>echo 'Hello, Molly!';</content><priority></priority></data>

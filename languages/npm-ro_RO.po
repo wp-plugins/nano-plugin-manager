@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gab <mail@gab.ro>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: npm_import_menu.php:5
+#: npm_gets.php:12
+#: npm_gets.php:19
+#: npm_gets.php:30
+#: npm_main_menu.php:7
+#: npm_editor_menu.php:7
+#: npm_add_edit.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nu aveți suficiente permisiuni pentru a accesa această pagină."
+
+#: npm_import_menu.php:12
+msgid "Error"
+msgstr "Eroare"
+
+#: npm_import_menu.php:16
+msgid "A nano plugin with the same file name already exists!"
+msgstr "Un nano plugin cu același nume de fișier există deja!"
+
+#: npm_import_menu.php:20
+#: npm_main_menu.php:22
+#: npm_main_menu.php:26
+#: npm_main_menu.php:30
+#: npm_editor_menu.php:48
+msgid "Nano plugin"
+msgstr "Nano plugin"
+
+#: npm_import_menu.php:20
+msgid "imported"
+msgstr "importat"
+
+#: npm_import_menu.php:25
+msgid "Invalid file. XML format required."
+msgstr "Fișierul nu este valid. Este necesar formatul XML."
+
+#: npm_import_menu.php:33
+#: npm_menus.php:8
+msgid "Nano Plugin Importer"
+msgstr "Importatorul de nano pluginuri"
+
+#: npm_import_menu.php:38
+#: npm_menus.php:8
+msgid "Import"
+msgstr "Importare"
+
+#: npm_permissions.php:7
+msgid "Nano Plugins Notice"
+msgstr "Anunț nano pluginuri"
+
+#: npm_permissions.php:7
+msgid "Unfortunately, your server configuration requires you to <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">chmod</a> your nano-plugins directory to a set of less secure writing permissions in order to be able to Add, Edit or Delete your nano plugins. If you find yourself in this situation, and you consider the security risk to be too high, you may still use this plugin but you will have to do all file operations (Add, Edit, Delete) via FTP. Aditionally, you may also want to talk about this with your hosting service provider. Your WordPress one-click updates probably don't work either."
+msgstr "Din nefericire, configurearea serverului dumneavoastră necesită să <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">chmod</a> directorul dumneavoastră nano-plugins la un set de permisiuni de scriere mai puțin sigure pentru a vă putea Adăuga, Edita sau Șterge nano pluginurile. Dacă vă găsiți în această situație, și considerați riscul de securitate ca fiind prea mare, puteți totuși folosi în continuare acest plugin, doar că va trebui să efectuați toate operațiunile cu fișiere (Adăugare, Editare, Ștergere) prin FTP. De asemenea, ați putea dori să vorbiți despre asta cu firma care vă oferă servicii de găzduire. Probabil că nici updateurile cu un singur click ale WordPress-ului nu vă funcționează."
+
+#: npm_main_menu.php:22
+msgid "activated"
+msgstr "activat"
+
+#: npm_main_menu.php:26
+msgid "deactivated"
+msgstr "dezactivat"
+
+#: npm_main_menu.php:30
+msgid "deleted"
+msgstr "șters"
+
+#: npm_main_menu.php:36
+#: npm_menus.php:6
+msgid "Nano Plugins"
+msgstr "Nano pluginuri"
+
+#: npm_main_menu.php:42
+#: npm_main_menu.php:43
+msgid "Nano Plugin"
+msgstr "Nano Plugin"
+
+#: npm_main_menu.php:42
+#: npm_main_menu.php:43
+#: npm_editor_menu.php:69
+msgid "Description"
+msgstr "Descriere"
+
+#: npm_main_menu.php:64
+msgid "Activate"
+msgstr "Activare"
+
+#: npm_main_menu.php:66
+msgid "Deactivate"
+msgstr "Dezactivare"
+
+#: npm_main_menu.php:67
+msgid "Edit"
+msgstr "Editare"
+
+#: npm_main_menu.php:68
+msgid "Export"
+msgstr "Exportare"
+
+#: npm_main_menu.php:69
+msgid "Delete"
+msgstr "Ștergere"
+
+#: npm_editor_menu.php:48
+msgid "saved"
+msgstr "salvat"
+
+#: npm_editor_menu.php:55
+msgid "Edit Nano Plugin"
+msgstr "Editează nano plugin"
+
+#: npm_editor_menu.php:57
+msgid "Add Nano Plugin"
+msgstr "Adaugă nano plugin"
+
+#: npm_editor_menu.php:67
+msgid "Name"
+msgstr "Nume"
+
+#: npm_editor_menu.php:68
+msgid "File Name"
+msgstr "Nume fișier"
+
+#: npm_editor_menu.php:70
+msgid "Hook Type"
+msgstr "Tip hook"
+
+#: npm_editor_menu.php:71
+msgid "Hook Name"
+msgstr "Nume hook"
+
+#: npm_editor_menu.php:72
+msgid "Hook Arguments"
+msgstr "Argumente hook"
+
+#: npm_editor_menu.php:73
+msgid "Hook Content"
+msgstr "Conținut hook"
+
+#: npm_editor_menu.php:74
+msgid "Hook Priority"
+msgstr "Prioritate hook"
+
+#: npm_editor_menu.php:76
+msgid "Save"
+msgstr "Salvare"
+
+#: npm_menus.php:7
+msgid "Nano Plugin Editor"
+msgstr "Editor nano pluginuri"
+
+#: npm_menus.php:7
+msgid "Add / Edit"
+msgstr "Adăugare / Editare"
+
