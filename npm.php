@@ -3,7 +3,7 @@
 Plugin Name: Nano Plugin Manager
 Plugin URI: http://www.gab.ro/nano/
 Description: Nano plugins provide a simple way to add simple functionality to your WordPress site, directly via an administration menu.
-Version: 0.9.1
+Version: 0.9.2
 Author: Gab
 Author URI: http://www.gab.ro/
 License: GPL2

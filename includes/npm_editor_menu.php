@@ -48,7 +48,7 @@ function npm_editor_menu(){
 		echo '<div class="updated"><p>' . __('Nano plugin', 'npm') . ' <strong>' . __('saved', 'npm') . '.</strong></p></div>';
 	
 	echo '<div class="wrap">';
-	echo '<div class="icon32"><img src="' . WP_PLUGIN_URL . '/nano-plugin-manager/includes/npm32.png" alt=""><br /></div>';
+	echo '<div class="icon32"><img src="' . NANO_PLUGIN_URL . '/includes/npm32.png" alt=""><br /></div>';
 	
 	/* different titles for different cases */
 	if($edit)

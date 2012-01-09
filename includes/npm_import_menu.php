@@ -29,7 +29,7 @@ function npm_import_menu(){
 	/* File upload ends here */
 	
 	echo '<div class="wrap">';
-	echo '<div class="icon32"><img src="' . WP_PLUGIN_URL . '/nano-plugin-manager/includes/npm32.png" alt=""><br /></div>';
+	echo '<div class="icon32"><img src="' . NANO_PLUGIN_URL . '/includes/npm32.png" alt=""><br /></div>';
 	echo '<h2>&nbsp;&nbsp;&nbsp;' . __( 'Nano Plugin Importer', 'npm' ) . '</h2>';
 	
 	echo '<form action="" method="post" enctype="multipart/form-data">';
