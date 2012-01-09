@@ -1,0 +1,152 @@
+#: npm_import_menu.php:5
+#: npm_gets.php:12
+#: npm_gets.php:19
+#: npm_gets.php:30
+#: npm_main_menu.php:7
+#: npm_editor_menu.php:7
+#: npm_add_edit.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: npm_import_menu.php:12
+msgid "Error"
+msgstr ""
+
+#: npm_import_menu.php:16
+msgid "A nano plugin with the same file name already exists!"
+msgstr ""
+
+#: npm_import_menu.php:20
+#: npm_main_menu.php:22
+#: npm_main_menu.php:26
+#: npm_main_menu.php:30
+#: npm_editor_menu.php:48
+msgid "Nano plugin"
+msgstr ""
+
+#: npm_import_menu.php:20
+msgid "imported"
+msgstr ""
+
+#: npm_import_menu.php:25
+msgid "Invalid file. XML format required."
+msgstr ""
+
+#: npm_import_menu.php:33
+#: npm_menus.php:8
+msgid "Nano Plugin Importer"
+msgstr ""
+
+#: npm_import_menu.php:38
+#: npm_menus.php:8
+msgid "Import"
+msgstr ""
+
+#: npm_permissions.php:7
+msgid "Nano Plugins Notice"
+msgstr ""
+
+#: npm_permissions.php:7
+msgid "Unfortunately, your server configuration requires you to <a href=\"http://codex.wordpress.org/Changing_File_Permissions\">chmod</a> your nano-plugins directory to a set of less secure writing permissions in order to be able to Add, Edit or Delete your nano plugins. If you find yourself in this situation, and you consider the security risk to be too high, you may still use this plugin but you will have to do all file operations (Add, Edit, Delete) via FTP. Aditionally, you may also want to talk about this with your hosting service provider. Your WordPress one-click updates probably don't work either."
+msgstr ""
+
+#: npm_main_menu.php:22
+msgid "activated"
+msgstr ""
+
+#: npm_main_menu.php:26
+msgid "deactivated"
+msgstr ""
+
+#: npm_main_menu.php:30
+msgid "deleted"
+msgstr ""
+
+#: npm_main_menu.php:36
+#: npm_menus.php:6
+msgid "Nano Plugins"
+msgstr ""
+
+#: npm_main_menu.php:42
+#: npm_main_menu.php:43
+msgid "Nano Plugin"
+msgstr ""
+
+#: npm_main_menu.php:42
+#: npm_main_menu.php:43
+#: npm_editor_menu.php:69
+msgid "Description"
+msgstr ""
+
+#: npm_main_menu.php:64
+msgid "Activate"
+msgstr ""
+
+#: npm_main_menu.php:66
+msgid "Deactivate"
+msgstr ""
+
+#: npm_main_menu.php:67
+msgid "Edit"
+msgstr ""
+
+#: npm_main_menu.php:68
+msgid "Export"
+msgstr ""
+
+#: npm_main_menu.php:69
+msgid "Delete"
+msgstr ""
+
+#: npm_editor_menu.php:48
+msgid "saved"
+msgstr ""
+
+#: npm_editor_menu.php:55
+msgid "Edit Nano Plugin"
+msgstr ""
+
+#: npm_editor_menu.php:57
+msgid "Add Nano Plugin"
+msgstr ""
+
+#: npm_editor_menu.php:67
+msgid "Name"
+msgstr ""
+
+#: npm_editor_menu.php:68
+msgid "File Name"
+msgstr ""
+
+#: npm_editor_menu.php:70
+msgid "Hook Type"
+msgstr ""
+
+#: npm_editor_menu.php:71
+msgid "Hook Name"
+msgstr ""
+
+#: npm_editor_menu.php:72
+msgid "Hook Arguments"
+msgstr ""
+
+#: npm_editor_menu.php:73
+msgid "Hook Content"
+msgstr ""
+
+#: npm_editor_menu.php:74
+msgid "Hook Priority"
+msgstr ""
+
+#: npm_editor_menu.php:76
+msgid "Save"
+msgstr ""
+
+#: npm_menus.php:7
+msgid "Nano Plugin Editor"
+msgstr ""
+
+#: npm_menus.php:7
+msgid "Add / Edit"
+msgstr ""
+

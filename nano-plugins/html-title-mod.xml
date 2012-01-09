@@ -1,0 +1,1 @@
+<data><name>HTML Title Mod</name><description>Multiple arguments sample. Adds things to your HTML title.</description><type>filter</type><tag>wp_title</tag><arguments>$title, $sep</arguments><content>return $title . 'some text ' . $sep . ' ';</content><priority></priority></data>
