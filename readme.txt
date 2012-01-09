@@ -4,7 +4,7 @@ Donate link: http://www.gab.ro/nano/donate/
 Tags: npm, nano, plugin, plugins, manager, simple, functionality
 Requires at least: 3.3
 Tested up to: 3.3.1
-Stable tag: 0.9
+Stable tag: 0.9.1
 
 Nano plugins provide a simple way to add simple functionality to your WordPress site, directly via an administration menu.
 
@@ -40,7 +40,7 @@ Perhaps if you'd only need one nano plugin, using our Nano Plugin Manager would 
 
 == Installation ==
 
-1. Upload `npe` to the `/wp-content/plugins/` directory
+1. Upload `nano-plugin-manager` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
@@ -56,10 +56,14 @@ Quite secure, I'd say. Access to the administration menu requires the `edit_plug
 
 == Changelog ==
 
+= 0.9.1 =
+* Bugfix: WordPress extend changed my plugin directory name so nothing was working anymore. It's fixed now.
 = 0.9 =
 * Initial release.
 
 == Upgrade Notice ==
 
+= 0.9.1 =
+* Bugfix: WordPress extend changed my plugin directory name so nothing was working anymore. It's fixed now.
 = 0.9 =
-Initial release.
+* Initial release.
