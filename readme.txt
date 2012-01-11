@@ -18,7 +18,7 @@ This plugin is two things:
 
 Even if you have no idea about WordPress coding, you can still write a tiny nano plugin.
 
-As you get more and more confident in your coding skills you can write more nano plugins and then write full size plugins entirely without relying on the Nano Plugin Manager. Or you can still contiune using is it as a development tool.
+As you get more and more confident in your coding skills you can write more nano plugins and then write full size plugins entirely without relying on the Nano Plugin Manager. And you can still contiune using is it as a development tool.
 
 Also, you get to browse the growing directory of nano plugins. Study them, learn from them or just use them without giving a damn on how they work :)
 
