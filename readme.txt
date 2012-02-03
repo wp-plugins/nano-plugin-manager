@@ -57,6 +57,7 @@ Quite secure, I'd say. Access to the administration menu requires the `edit_plug
 == Changelog ==
 
 = 0.9.2 =
+* Added syntax highlighting
 * Minor constants code improvement
 = 0.9.1 =
 * Bugfix: WordPress extend changed my plugin directory name so nothing was working anymore. It's fixed now.
@@ -66,8 +67,8 @@ Quite secure, I'd say. Access to the administration menu requires the `edit_plug
 == Upgrade Notice ==
 
 = 0.9.2 =
-* Minor constants code improvement
+Added syntax highlighting
 = 0.9.1 =
-* Bugfix: WordPress extend changed my plugin directory name so nothing was working anymore. It's fixed now.
+Bugfix: WordPress extend changed my plugin directory name so nothing was working anymore. It's fixed now.
 = 0.9 =
-* Initial release.
+Initial release.

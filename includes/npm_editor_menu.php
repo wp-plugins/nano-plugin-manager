@@ -70,7 +70,7 @@ function npm_editor_menu(){
 	echo '<tr><td>' . __('Hook Type', 'npm') . ' (*)</td><td><select name="npm_type"><option value=""></option><option value="action" ' . $selected_action . '>action</option><option value="filter" ' . $selected_filter . '>filter</option></select></td></tr>';
 	echo '<tr><td>' . __('Hook Name', 'npm') . ' (*)</td><td><input type="text" name="npm_tag" value="' . $tag . '" size="40"></td></tr>';
 	echo '<tr><td>' . __('Hook Arguments', 'npm') . '</td><td><input type="text" name="npm_arguments" value="' . $arguments . '" size="40"></td></tr>';
-	echo '<tr><td>' . __('Hook Content', 'npm') . ' (*)</td><td><textarea wrap="off" rows="5" cols="38" name="npm_content">' . $content . '</textarea></td></tr>';
+	echo '<tr><td>' . __('Hook Content', 'npm') . ' (*)</td><td><textarea wrap="off" rows="5" cols="38" name="npm_content"  id="npm_content">' . $content . '</textarea></td></tr>';
 	echo '<tr><td>' . __('Hook Priority', 'npm') . '</td><td><input type="text" name="npm_priority" value="' . $priority . '" size="40"></td></tr>';
 	
 	echo '<tr><td></td><td><input type="submit" class="button-primary" value="' . __('Save', 'npm') . '" /></td></tr>';
@@ -78,4 +78,7 @@ function npm_editor_menu(){
 	echo '</table>';
 	echo '</form>';
 	echo '</div>';
+	
+	/* the syntax highlighter */
+	echo '<script>CodeMirror.fromTextArea(document.getElementById("npm_content"), {mode: "text/x-php", theme: "monokai"});</script>';
 }
