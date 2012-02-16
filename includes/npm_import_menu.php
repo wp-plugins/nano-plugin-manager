@@ -34,7 +34,7 @@ function npm_import_menu(){
 	
 	echo '<form action="" method="post" enctype="multipart/form-data">';
 	
-	echo '<p><input type="file" accept="image/*" name="file" /></p>';
+	echo '<p><input type="file" name="file" /></p>';
 	echo '<p><input type="submit" class="button-primary" value="' . __('Import', 'npm') . '" /></p>';
 	
 	echo '</form>';
