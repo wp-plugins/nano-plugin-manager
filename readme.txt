@@ -3,7 +3,7 @@ Contributors: gab.ro
 Donate link: http://www.gab.ro/nano/donate/
 Tags: npm, nano, plugin, plugins, manager, simple, functionality
 Requires at least: 3.3
-Tested up to: 3.3.1
+Tested up to: 3.4
 Stable tag: 0.9.2
 
 Nano plugins provide a simple way to add simple functionality to your WordPress site, directly via an administration menu.
